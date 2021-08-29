@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}.ToDo_class{
+    color: black;
+    background-color: orange;
+}
+.Completed_class{
+    color: black;
+    background-color: greenyellow;
+}
+.Botton_class{
+    color:blueviolet;
+    background-color:antiquewhite;
+}
